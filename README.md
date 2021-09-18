@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kit!
 - 👀 I’m interested in technical communication, web accessibility, and UI/UX design.
 - 🌱 I’m currently learning how to use Github!
-- 📫 kheath133@gmail.com
+- 📫 You can reach me at: kheath133@gmail.com
