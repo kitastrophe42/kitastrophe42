@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kit!
 - 👀 I’m interested in technical communication, web accessibility, and UI/UX design.
-- 🌱 I’m currently learning how to use Github!
-- 📫 You can reach me at: kheath133@gmail.com
+- 🌱 I’m teaching myself how to make a game with Git and Unity.
+- 📫 You can reach me at: kit.heath.26@gmail.com
